@@ -11,5 +11,6 @@ public class Main {
         System.out.println(list.pop());
         System.out.println(list.pop());
 
+
     }
 }
