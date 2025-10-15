@@ -1,5 +1,7 @@
 package org.bob;
 
+import org.bob.priority_queue.CustomLinkedList;
+
 public class Main {
     public static void main(String[] args) {
         CustomLinkedList<Integer,Integer> list = new CustomLinkedList<>();

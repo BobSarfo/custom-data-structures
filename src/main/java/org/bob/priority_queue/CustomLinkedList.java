@@ -1,4 +1,4 @@
-package org.bob;
+package org.bob.priority_queue;
 
 import java.io.Serializable;
 import java.util.Comparator;

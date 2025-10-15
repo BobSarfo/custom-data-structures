@@ -1,4 +1,4 @@
-package org.bob;
+package org.bob.priority_queue;
 
 public class PriorityQueue <D,P extends Comparable<P>>{
 
